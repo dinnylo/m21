@@ -1,0 +1,112 @@
+.navbar-banner {
+    height: 30px;
+    width: 100%;
+    background-color: #3665AC;
+    margin-bottom: 20px;
+  }
+  
+  
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f8f8f8;
+    padding: 20px;
+  }
+  
+  .navbar-logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 150px;
+    margin-top:-30px
+  }
+  
+  
+  .btn-primary {
+    width: 300px;
+  }
+  
+  .text-end {
+    padding-top:0px;
+   
+  }
+  
+  
+  .col-md-6 {
+    padding-top: 15px;
+   
+  }
+  
+  
+  .footer {
+    background-color: #f2f2f2;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 60px;
+  }
+  
+  .social-icons {
+    margin-bottom: 10px;
+  }
+  
+  .social-icon {
+    display: inline-block;
+    margin-right: 10px;
+    color: #333;
+    font-size: 20px;
+  }
+  
+  .social-icon:hover {
+    color: #3665AC;
+  }
+  
+  
+  
+  .btn-primary:hover {
+   background-color: #808080;
+    border-color: #808080;
+  }
+  
+  
+  .btn-outline-primary:hover {
+    background-color:#3665AC;
+    border-color:#3665AC;
+  }
+  
+  .fa-heart {
+    color:#C8DCF1
+  }
+  
+  #heart-icon:hover {
+    color: red;
+    cursor: pointer;
+  }
+
+
+#cart:hover {
+  color: red;
+    cursor: pointer;
+}
+
+
+.fa-cart-shopping {
+  margin-left: 0.5px;
+  margin-right: 10px;
+
+}
+
+.cantidad {
+  margin: 15px;
+}
+
+.form-control {
+  margin-left: 10px;
+}
+.btn-outline-primary {
+  margin-left: 3px;
+}
+  .btn-primary{
+    margin-top: 10px; 
+  }
+  
+
